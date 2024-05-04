@@ -1,0 +1,14 @@
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\obj\Debug\net8.0\Soluciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\obj\Debug\net8.0\Soluciones.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\obj\Debug\net8.0\Soluciones.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\obj\Debug\net8.0\Soluciones.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\bin\Debug\net8.0\Soluciones.exe
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\bin\Debug\net8.0\Soluciones.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\bin\Debug\net8.0\Soluciones.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\bin\Debug\net8.0\Soluciones.dll
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\bin\Debug\net8.0\Soluciones.pdb
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\obj\Debug\net8.0\Soluciones.dll
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\obj\Debug\net8.0\refint\Soluciones.dll
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\obj\Debug\net8.0\Soluciones.pdb
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\obj\Debug\net8.0\Soluciones.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Segundo-Parcial-Progra-I\Soluciones\Soluciones\obj\Debug\net8.0\ref\Soluciones.dll
